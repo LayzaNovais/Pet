@@ -1,0 +1,26 @@
+
+
+/GET          /Pet/busca?id=**
+
+response(200) 
+ 
+  "id":0,
+  "nome":""
+
+///////////////////////////////////////////
+
+
+/POST         /Pet
+
+resquest  (body)
+
+    "nome":""
+
+
+response 
+ 
+  "id":0,
+  "nome":""
+
+   
+
